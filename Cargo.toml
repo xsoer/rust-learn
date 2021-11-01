@@ -1,0 +1,6 @@
+[workspace]
+
+members=[
+    "ex-basic",
+    "ex-libs"
+]
